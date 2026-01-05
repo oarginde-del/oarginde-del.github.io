@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+# AdMob app-ads.txt dosyasına erişime izin ver
+User-agent: *
+Allow: /app-ads.txt
+
